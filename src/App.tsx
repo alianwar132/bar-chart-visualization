@@ -70,6 +70,7 @@ function App() {
             <h1 className="text-4xl font-bold">Bar Chart Visualizer</h1>
           </div>
           <p className="text-gray-300">Create and animate dynamic bar charts based on input data</p>
+          <p className="text-gray-300">Developed by Anwar Ansari with ❤️</p>
         </header>
 
         <div className="bg-gray-800 rounded-lg shadow-xl p-6 mb-8">
